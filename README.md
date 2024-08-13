@@ -1,7 +1,3 @@
-Here's the complete README file tailored for your project:
-
----
-
 # Wi-Jungle Electron App
 
 ## Project Overview
